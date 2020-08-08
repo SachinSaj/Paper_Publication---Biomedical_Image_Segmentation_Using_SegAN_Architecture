@@ -10,7 +10,7 @@ Cancer is termed as one of the deadliest disease and it is becoming a major heal
 
 ### Code
 
-This code is inspired from Yuan Xue (github link: https://github.com/YuanXue1993/SegAN ). This code undergone some minon and major modification, for our use.
+This code is inspired from Yuan Xue (github link: https://github.com/YuanXue1993/SegAN ). This code has undergone some minor and major modification, for our usecase.
 
 ### Paper to Cite
 
