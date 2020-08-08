@@ -19,4 +19,4 @@ This code is inspired from Yuan Xue (github link: https://github.com/YuanXue1993
 - The presentation slides are also uploaded in this repository.
 - Paper is not uploaded, as it not published online yet.
 
-### If any idea or code used from this repository, kindly cite our paper.
+### If any idea or code used from this repository, kindly cite our paper / github repository.
