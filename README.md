@@ -1,4 +1,4 @@
-# Biomedical_Image_Segmentation_Using_SegAN_Architecture-Paper_Publication
+# Paper Publication: Biomedical Image Segmentation Using SegAN Architecture
 
 ### Abstract
 
