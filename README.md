@@ -6,7 +6,7 @@ Cancer is termed as one of the deadliest disease and it is becoming a major heal
 
 - Datasets: a) BraTS 2017 (Brain Tumor Dataset), b) ISIC 2018 (Skin Cancer Dataset)
 - Architecture: Segmentor Adversarial Network ( SegAN )
-- Evaluation Metrics: a) Dice Score, b) Jaccard Index ( Both of the metrics is commonly used in image segmentation task, which gives the similarity score of the predicted image with ground truth image.
+- Evaluation Metrics: a) Dice Score, b) Jaccard Index ( Both of this metrics are commonly used in image segmentation task, which gives the similarity score of the predicted image with the ground truth image.
 
 ### Code
 
@@ -16,6 +16,7 @@ This code is inspired from Yuan Xue (github link: https://github.com/YuanXue1993
 
 - This Paper was present in this conference " The International Conference on Automation, Signal Processing, Instrumentation and Control (i'CASIC 2020) " on Feb 2020
 - Publisher: Springer (Germany Based)
-- Paper is not uploaded, as it not published online yet
+- The presentation slides are also uploaded in this repository.
+- Paper is not uploaded, as it not published online yet.
 
-#### If any idea or code used from this repository, kindly cite our paper.
+### If any idea or code used from this repository, kindly cite our paper.
